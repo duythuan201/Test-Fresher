@@ -584,7 +584,7 @@ a.navbar-brand.our_logo{
 }
 
 .slider{
-	background:url(../images/bannerbg.jpg) center center no-repeat;
+	background:url(../images/banner_bg.jpg) center center no-repeat;
 	background-size:cover;
 }
 
@@ -610,11 +610,8 @@ a.navbar-brand.our_logo{
 	left:0;
 }
 
-
-/* Abouts Section css */
-
 .abouts{
-	 background: url(../images/abtbg.jpg) no-repeat center top scroll;
+	 background: url(../images/about_bg.jpg) no-repeat center top scroll;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -636,7 +633,7 @@ a.navbar-brand.our_logo{
 
 /* Features section css */
 .features{
-	background:url(../images/ftbg.jpg) center center no-repeat;
+	background:url(../images/special_bg.jpg) center center no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -649,7 +646,7 @@ a.navbar-brand.our_logo{
 	display:inline-block;
 }
 .main_features_content{
-	background:url(../images/ft.png) right center no-repeat;
+	background:url(../images/special.png) right center no-repeat;
 	padding:40px;
 	overflow:hidden;
 }
@@ -662,7 +659,7 @@ a.navbar-brand.our_logo{
 
 /* Portfolio Section css */
 .portfolio{
-	background:url(../images/portfoliobg.jpg) center top no-repeat;
+	background:url(../images/delightful_bg.jpg) center top no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -731,7 +728,7 @@ a.navbar-brand.our_logo{
 }
 
 .footer_widget{
-	background:url(../images/footerbg.jpg) center top no-repeat scroll;
+	background:url(../images/footer_bg.jpg) center top no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
